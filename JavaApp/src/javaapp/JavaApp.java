@@ -20,9 +20,6 @@ public class JavaApp {
         System.out.println("Dang fix loi o nhanh nay");
         //comment chut
         //comment fetch
-        //cu sua chua cai da
-        //bo sung code day len nhanh dev
-        //them moi code ben dev
         //Fig bug login
     }
     

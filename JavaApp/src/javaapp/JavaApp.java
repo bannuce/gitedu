@@ -18,6 +18,7 @@ public class JavaApp {
         // TODO code application logic here
         System.out.println("Xin chao day la nhanh Main");
         System.out.println("Dang fix loi o nhanh nay");
+        //comment chut
     }
     
 }

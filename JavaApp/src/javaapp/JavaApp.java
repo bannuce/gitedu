@@ -21,6 +21,7 @@ public class JavaApp {
         //comment chut
         //comment fetch
         //Fig bug login
+        System.out.print("Hello");
     }
     
 }
